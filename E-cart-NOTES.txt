@@ -1,0 +1,15 @@
+
+
+
+
+
+
+                            BACKEND FOR E-CART
+                        ---------------------------
+        
+        1. Create a folder for BACKEND
+        2. Create a package.json file  - npm init
+        3. install 3rd party packages - npm i express cors mongoose dotenv
+        4. Create index.js , .env , -gitignore
+        5. inside index,js,
+            ->To automatically load .env file into our application
